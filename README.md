@@ -1,5 +1,5 @@
-# budget-app
+# BUDGET MANAGEMENT
 
 
 
-![ScreenShot](https://raw.githubusercontent.com/sidsinha/nodejs-api-server/master/screnshot.png)
+![ScreenShot](https://raw.githubusercontent.com/sidsinha/budget-app/master/screnshot.png)
