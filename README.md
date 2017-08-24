@@ -2,4 +2,5 @@
 
 
 
-![ScreenShot](https://raw.githubusercontent.com/sidsinha/budget-app/master/screnshot.png)
+![ScreenShot](https://raw.githubusercontent.com/sidsinha/budget-app/master/screenshot.png)
+              
